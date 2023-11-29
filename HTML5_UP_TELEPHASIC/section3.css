@@ -1,0 +1,132 @@
+#div9{
+    background-image:url(./asserts/overlay.png) ,url(./asserts/promo.jpg);
+    height: 300px;
+    margin-top: 960px;
+    width: 100%;
+    
+}
+#h24{
+    color: white;
+    position: absolute;
+    top: 1720px;
+    left: 160px;
+    background: rgba(255, 255, 255, 0.05);
+    border: solid 1px rgba(255, 255, 255, 0.25);
+    border-radius: 0.5em;
+    padding-top: 44px;
+    padding-left: 55px;
+    word-spacing: 3px;
+    font-size: 34px;
+    font-weight: 500;
+}
+#btn4{
+    
+        position: absolute;
+        top: 30px;
+        left: 800px;
+        height: 65px;
+        width:290px;
+        color: #52575c;
+        background-color: white;
+         border-radius: 0.7em ;
+         border-color: #d4dde4;
+         font-size: 22px;
+
+}
+#btn4:hover{
+    background-color:rgb(104, 138, 125);
+    color:white;
+    
+
+}
+#h25{
+    font-size: 2.0em;
+    line-height: 1.25em;
+    font-weight: 300;
+    color: #52575c;
+    position: absolute;
+    top: 2050px;
+    left: 480px;
+    word-spacing: 6px;
+}
+#para3{
+    position: absolute;
+    top: 2120px;
+    left: 410px;
+    color: #f08c89;
+    word-spacing: 10px;
+    font-size: 1.4em;
+    font-weight: 400;
+    line-height: 22px;
+    
+}
+#div10{
+    background-image: url(./asserts/image-wrapper.svg);
+    height: 220px;
+    width: 100%;
+    position: absolute;
+    top: 2200px;
+}
+#img3{
+    position: absolute;
+    top: 3px;
+    left: 80px;
+    
+}
+#para4{
+    position: absolute;
+    left: 80px;
+    top: 290px;
+    color: #52575c;
+    word-spacing: 10px;
+    font: 0.9em;
+    font-weight: 500;
+    line-height: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+#img4{
+    position: absolute;
+    top: 3px;
+    left: 540px;
+}
+#para5{
+    position: absolute;
+    left: 540px;
+    top: 290px;
+    color: #52575c;
+    word-spacing: 10px;
+    font: 0.9em;
+    font-weight: 500;
+    line-height: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+#img5{
+    position: absolute;
+    top: 3px;
+    left: 1000px;
+}
+#para6{
+    position: absolute;
+    left: 1000px;
+    top: 290px;
+    color: #52575c;
+    word-spacing: 10px;
+    font: 0.9em;
+    font-weight: 500;
+    line-height: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+#btn5{
+    position: absolute;
+    top: 450px;
+    left: 600px;
+    height: 60px;
+    width:280px;
+    color: #52575c;
+    background-color: white;
+     border-radius: 0.5em ;
+     border-color: #d4dde4;
+}

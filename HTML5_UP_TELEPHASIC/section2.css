@@ -1,0 +1,128 @@
+#div8{
+    background-image: url(./asserts/image-wrapper.svg);
+    height: 350px;
+    width: 100%;
+    position: absolute;
+    top: 880px;
+}
+#img1{
+    position: absolute;
+    top: 3px;
+    left: 120px;
+}
+#h22{
+    position: absolute;
+    top: 320px;
+    left: 220px;
+    font-size: 30px;
+    line-height: 1.25em;
+    font-weight: 500;
+    color: #52575c;
+    word-spacing: 3px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#para1{
+    position: absolute;
+    top: 420px;
+    left: 80px;
+    color: #52575c;
+    word-spacing: 10px;
+    /* font: 0.9em; */
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2em;
+    font-family: 'Source Sans Pro', sans-serif;
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+#img2{
+    position: absolute;
+    top: 3px;
+    left: 780px;
+}
+#h23{
+    position: absolute;
+    top: 320px;
+    left: 920px;
+    font-size: 1.9em;
+    line-height: 1.25em;
+    font-weight: 500;
+    color: #52575c;
+    word-spacing: 3px;
+    font-family: serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#para2{
+    position: absolute;
+    top: 420px;
+    left: 790px;
+    color: #52575c;
+    word-spacing: 10px;
+    font: 0.9em;
+    font-weight: 500;
+    line-height: 2em;
+    font-family: 'Source Sans Pro', sans-serif;
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+#btn2{
+    position: absolute;
+    top: 550px;
+    left: 290px;
+    height: 60px;
+    width:280px;
+    color: #52575c;
+    background-color: white;
+     border-radius: 0.5em ;
+     border-color: #d4dde4;
+}
+#btn3{
+    position: absolute;
+    top: 550px;
+    left: 990px;
+    height: 60px;
+    width:280px;
+    color: #52575c;
+    background-color: white;
+     border-radius: 0.5em ;
+     border-color: #d4dde4;
+}
+#div9{
+    background-image:url(./image5/overlay.png) ,url(./image5/div8backimg.jpg);
+    height: 300px;
+    margin-top: 860px;
+    width: 100%;
+    
+}
+#h24{
+    color: white;
+    position: absolute;
+    top: 1640px;
+    left: 160px;
+    background: rgba(255, 255, 255, 0.05);
+    border: solid 1px rgba(255, 255, 255, 0.25);
+    border-radius: 0.5em;
+    padding-top: 44px;
+    padding-left: 55px;
+    word-spacing: 3px;
+    font-size: 34px;
+    font-weight: 500;
+}
+#btn4{
+    
+        position: absolute;
+        top: 30px;
+        left: 800px;
+        height: 65px;
+        width:290px;
+        color: #52575c;
+        background-color: white;
+         border-radius: 0.7em ;
+         border-color: #d4dde4;
+         font-size: 22px;
+
+}
+#btn4:hover{
+    background-color:rgb(104, 138, 125);
+    color:white;
+    
+
+}
